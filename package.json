@@ -13,6 +13,8 @@
     "freeice": "^2.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router": "^6.8.2",
+    "react-router-dom": "^6.8.2",
     "socket.io": "^4.6.1",
     "socket.io-client": "^4.6.1",
     "uuid": "^9.0.0"
